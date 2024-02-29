@@ -8,7 +8,10 @@ In the last year I have made my first entire App for a client (Front-end). I hav
 I like to reach my objectives by creating a step by step plan and by following good practices and learning others by making an scalable code.
 I'm always trying to learn from my teammates skills because I can acquire new ones. I try to teach everything I know whenever I see an opportunity too.
 -->
+👨‍💻 Just another web developer navigating the digital universe, fueled by curiosity and driven by the quest for constant improvement.
+Welcome to my corner of the web, where I share my journey of tackling challenges and discovering new horizons in the realm of web development. Join me as I explore the ever-evolving landscape of technology and strive to make every day a step forward in my craft.
 
+- ⚡ Fun fact: I have my blog where you can read some of my articles -> https://leonavancini.hashnode.dev/?source=top_nav_blog_home
 <!--
 **LeonAvancini/leonavancini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
